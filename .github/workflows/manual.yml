@@ -30,4 +30,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Send greeting
-      run: git clone github.com/fluent/fluent-bit.git
+      run: git clone git://github.com/fluent/fluent-bit.git
